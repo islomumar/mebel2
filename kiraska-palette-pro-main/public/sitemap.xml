@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Home Page -->
+  <url>
+    <loc>https://kiraska.uz/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kiraska.uz/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kiraska.uz/ru/" />
+    <xhtml:link rel="alternate" hreflang="ky" href="https://kiraska.uz/ky/" />
+    <xhtml:link rel="alternate" hreflang="tj" href="https://kiraska.uz/tj/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://kiraska.uz/zh/" />
+  </url>
+
+  <!-- Catalog Page -->
+  <url>
+    <loc>https://kiraska.uz/catalog</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kiraska.uz/catalog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kiraska.uz/ru/catalog" />
+    <xhtml:link rel="alternate" hreflang="ky" href="https://kiraska.uz/ky/catalog" />
+    <xhtml:link rel="alternate" hreflang="tj" href="https://kiraska.uz/tj/catalog" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://kiraska.uz/zh/catalog" />
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://kiraska.uz/about</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kiraska.uz/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kiraska.uz/ru/about" />
+    <xhtml:link rel="alternate" hreflang="ky" href="https://kiraska.uz/ky/about" />
+    <xhtml:link rel="alternate" hreflang="tj" href="https://kiraska.uz/tj/about" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://kiraska.uz/zh/about" />
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://kiraska.uz/contact</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kiraska.uz/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kiraska.uz/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="ky" href="https://kiraska.uz/ky/contact" />
+    <xhtml:link rel="alternate" hreflang="tj" href="https://kiraska.uz/tj/contact" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://kiraska.uz/zh/contact" />
+  </url>
+
+  <!-- Russian Language Pages -->
+  <url>
+    <loc>https://kiraska.uz/ru/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/ru/catalog</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/ru/about</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/ru/contact</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Kyrgyz Language Pages -->
+  <url>
+    <loc>https://kiraska.uz/ky/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/ky/catalog</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/ky/about</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/ky/contact</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Tajik Language Pages -->
+  <url>
+    <loc>https://kiraska.uz/tj/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/tj/catalog</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/tj/about</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/tj/contact</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Chinese Language Pages -->
+  <url>
+    <loc>https://kiraska.uz/zh/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/zh/catalog</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/zh/about</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kiraska.uz/zh/contact</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
